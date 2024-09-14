@@ -1,0 +1,1 @@
+C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\ArsMediaApp.csproj;x64
