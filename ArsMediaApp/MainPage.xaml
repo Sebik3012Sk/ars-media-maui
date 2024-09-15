@@ -5,7 +5,7 @@
 
     <ScrollView>
         <VerticalStackLayout>
-            <components:LIstPost />
+            <components:LIstPost/>
         </VerticalStackLayout>
     </ScrollView>
 

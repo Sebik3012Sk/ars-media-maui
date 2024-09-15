@@ -319,7 +319,6 @@
     <AppxPackagedFile Include="C:\Users\matej\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
-<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\matej\.nuget\packages\newtonsoft.json\13.0.3\lib\net6.0\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
@@ -327,15 +326,6 @@
       <PackagePath>RestSharp.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\matej\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
-=======
-    <AppxPackagedFile Include="C:\Users\Sebastian Kučera\.nuget\packages\newtonsoft.json\13.0.3\lib\net6.0\Newtonsoft.Json.dll">
-      <PackagePath>Newtonsoft.Json.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sebastian Kučera\.nuget\packages\restsharp\112.0.0\lib\net8.0\RestSharp.dll">
-      <PackagePath>RestSharp.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sebastian Kučera\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
->>>>>>> a13d1d03974e81ce2bac147055eadae3852f1844
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\matej\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ca\Microsoft.Maui.Controls.resources.dll">

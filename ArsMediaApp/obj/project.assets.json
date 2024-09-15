@@ -34105,5 +34105,13 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Při čtení souboru mezipaměti C:\\Users\\matej\\Source\\Repos\\ars-media-maui\\ArsMediaApp\\obj\\project.nuget.cache došlo k problému: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
