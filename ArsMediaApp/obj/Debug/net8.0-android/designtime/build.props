@@ -24,11 +24,7 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-<<<<<<< HEAD
 _nugetassetstimestamp=638620100043078669
-=======
-_nugetassetstimestamp=638619268820599301
->>>>>>> a13d1d03974e81ce2bac147055eadae3852f1844
 typemapkind=strings-asm
 androidmanifestplaceholders=
 projectfullpath=c:\users\matej\source\repos\ars-media-maui\arsmediaapp\arsmediaapp.csproj
