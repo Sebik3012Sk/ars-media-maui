@@ -33814,24 +33814,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sebastian Kučera\\.nuget\\packages\\": {},
+    "C:\\Users\\matej\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sebastian Kučera\\source\\repos\\ArsMediaApp\\ArsMediaApp\\ArsMediaApp.csproj",
+      "projectUniqueName": "C:\\Users\\matej\\Source\\Repos\\ars-media-maui\\ArsMediaApp\\ArsMediaApp.csproj",
       "projectName": "ArsMediaApp",
-      "projectPath": "C:\\Users\\Sebastian Kučera\\source\\repos\\ArsMediaApp\\ArsMediaApp\\ArsMediaApp.csproj",
-      "packagesPath": "C:\\Users\\Sebastian Kučera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sebastian Kučera\\source\\repos\\ArsMediaApp\\ArsMediaApp\\obj\\",
+      "projectPath": "C:\\Users\\matej\\Source\\Repos\\ars-media-maui\\ArsMediaApp\\ArsMediaApp.csproj",
+      "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matej\\Source\\Repos\\ars-media-maui\\ArsMediaApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sebastian Kučera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
