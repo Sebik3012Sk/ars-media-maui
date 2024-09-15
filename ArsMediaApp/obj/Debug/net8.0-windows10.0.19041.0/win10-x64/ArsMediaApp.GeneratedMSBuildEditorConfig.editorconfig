@@ -24,6 +24,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/Controllers/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Controllers.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Controllers\Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Controllers\Home.xaml
+
 [C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/Controllers/LIstPost.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Controllers.LIstPost.xaml

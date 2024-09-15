@@ -21,7 +21,11 @@ public partial class LIstPost : ContentView
     private void LoadContent_Event(object sender, EventArgs e)
     {
         posts.Clear();
+<<<<<<< HEAD
         var data_posts = connection.connectDb("http://localhost:57257/get-post");
+=======
+        var data_posts = connection.connectDb("http://localhost:7131/get-post");
+>>>>>>> d5edd9208b8710497598b71c159d7d8fd2dfd6e9
         foreach (var post in data_posts)
         {
             posts.Add(new Post
