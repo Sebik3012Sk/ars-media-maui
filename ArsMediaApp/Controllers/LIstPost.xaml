@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Loaded="LoadContent_Event"
+             x:Class="ArsMediaApp.Controllers.LIstPost">
+    <ScrollView>
+        <VerticalStackLayout>
+            <ListView x:Name="listView_posts" ItemSelected="SelectedPost_Event">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Margin="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Label Margin="10" Text="{Binding PostName}" TextColor="#fff" FontSize="22" FontAttributes="Bold" Grid.Row="0" />
+                                <Label Margin="10" Text="{Binding PostContent}" TextColor="#fff" FontSize="17" Grid.Row="1" />
+                                <Image Margin="10" Grid.Column="0" MaximumHeightRequest="350" MaximumWidthRequest="250" Source="{Binding ImageSource}" />
+                                <Label Margin="10" Text="{Binding Likes}" TextColor="#fff" FontSize="12" Grid.Row="2" />
+                                <Label Margin="10" Text="{Binding Description}" TextColor="#fff" FontSize="17" Grid.Row="3" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+    
+</ContentView>

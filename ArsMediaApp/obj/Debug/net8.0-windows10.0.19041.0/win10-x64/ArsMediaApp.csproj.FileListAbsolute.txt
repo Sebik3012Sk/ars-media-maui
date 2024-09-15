@@ -355,3 +355,5 @@ C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\obj\Debug\net8.0-windows1
 C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\RestSharp.dll
