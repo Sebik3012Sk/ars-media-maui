@@ -8,59 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ArsMediaApp
-build_property.ProjectDir = C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\
+build_property.ProjectDir = C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/App.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/AppShell.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/Controllers/LIstPost.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Controllers/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Controllers.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Controllers\Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Controllers\Home.xaml
+
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Controllers/LIstPost.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Controllers.LIstPost.xaml
 build_metadata.AdditionalFiles.TargetPath = Controllers\LIstPost.xaml
 build_metadata.AdditionalFiles.RelativePath = Controllers\LIstPost.xaml
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/MainPage.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/Pages/LoginPage.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Pages/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Pages.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/Pages/PostDetail.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Pages/PostDetail.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Pages.PostDetail.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\PostDetail.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\PostDetail.xaml
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/Pages/RegisterPage.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Pages/RegisterPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Pages.RegisterPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\RegisterPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\RegisterPage.xaml
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/Resources/Styles/Colors.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/matej/Source/Repos/ars-media-maui/ArsMediaApp/Resources/Styles/Styles.xaml]
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

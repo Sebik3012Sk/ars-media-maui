@@ -33814,24 +33814,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matej\\.nuget\\packages\\": {},
+    "C:\\Users\\Sebastian Kučera\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matej\\Source\\Repos\\ars-media-maui\\ArsMediaApp\\ArsMediaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Sebastian Kučera\\source\\repos\\ArsMediaApp\\ArsMediaApp\\ArsMediaApp.csproj",
       "projectName": "ArsMediaApp",
-      "projectPath": "C:\\Users\\matej\\Source\\Repos\\ars-media-maui\\ArsMediaApp\\ArsMediaApp.csproj",
-      "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matej\\Source\\Repos\\ars-media-maui\\ArsMediaApp\\obj\\",
+      "projectPath": "C:\\Users\\Sebastian Kučera\\source\\repos\\ArsMediaApp\\ArsMediaApp\\ArsMediaApp.csproj",
+      "packagesPath": "C:\\Users\\Sebastian Kučera\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sebastian Kučera\\source\\repos\\ArsMediaApp\\ArsMediaApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sebastian Kučera\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -34105,13 +34105,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Při čtení souboru mezipaměti C:\\Users\\matej\\Source\\Repos\\ars-media-maui\\ArsMediaApp\\obj\\project.nuget.cache došlo k problému: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

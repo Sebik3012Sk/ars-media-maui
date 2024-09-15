@@ -65,6 +65,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="Controllers\Home.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Controllers\LIstPost.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
