@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-15T11:00:44.386</Modified>
+      <Modified>2024-09-15T13:07:21.679</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ArsMediaApp.dll">
       <PackagePath>ArsMediaApp.dll</PackagePath>
-      <Modified>2024-09-15T11:00:42.683</Modified>
+      <Modified>2024-09-15T13:07:21.075</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ArsMediaApp.exe</PackagePath>
-      <Modified>2024-09-15T11:00:42.746</Modified>
+      <Modified>2024-09-15T13:07:21.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

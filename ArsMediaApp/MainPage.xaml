@@ -3,8 +3,10 @@
              xmlns:components="clr-namespace:ArsMediaApp.Controllers"
              x:Class="ArsMediaApp.MainPage">
 
-    <VerticalStackLayout>
-        <components:LIstPost />
-    </VerticalStackLayout>
+    <ScrollView>
+        <VerticalStackLayout>
+            <components:LIstPost />
+        </VerticalStackLayout>
+    </ScrollView>
 
 </ContentPage>

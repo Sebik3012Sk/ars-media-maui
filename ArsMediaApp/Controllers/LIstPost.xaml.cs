@@ -28,7 +28,8 @@ public partial class LIstPost : ContentView
                 PostName = post["post_name"].ToString(),
                 PostContent = post["post_content"].ToString(),
                 Likes = post["likes"],
-                Description = post["description"].ToString()
+                Description = post["description"].ToString(),
+                ImageSource = post["image"]
             });
         }
     }

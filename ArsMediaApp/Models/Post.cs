@@ -12,5 +12,6 @@ namespace ArsMediaApp.Models
         public int Likes { get; set; }
         public string PostContent { get; set; }
         public string Description { get; set; }
+        public string ImageSource { get; set; }
     }
 }

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArsMediaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f4cd1ff036016cc161cc1672ee65157de89f95b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dd237683f22cb6aa86cdbcd4654b9ffd1e6df2e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArsMediaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArsMediaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
