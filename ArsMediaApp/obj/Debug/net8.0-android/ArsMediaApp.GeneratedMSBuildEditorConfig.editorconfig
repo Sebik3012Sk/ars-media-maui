@@ -28,11 +28,23 @@ build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Controllers/LIstPost.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Controllers.LIstPost.xaml
+build_metadata.AdditionalFiles.TargetPath = Controllers\LIstPost.xaml
+build_metadata.AdditionalFiles.RelativePath = Controllers\LIstPost.xaml
+
 [C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Pages/PostDetail.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ArsMediaApp.Pages.PostDetail.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PostDetail.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PostDetail.xaml
 
 [C:/Users/Sebastian Kučera/source/repos/ArsMediaApp/ArsMediaApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
