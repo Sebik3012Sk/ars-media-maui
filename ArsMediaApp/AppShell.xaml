@@ -1,15 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Shell
-    x:Class="ArsMediaApp.AppShell"
-    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:ArsMediaApp"
-    Shell.FlyoutBehavior="Disabled"
-    Title="ArsMediaApp">
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:ArsMediaApp"
+       xmlns:pages="clr-namespace:ArsMediaApp.Pages"
+       x:Class="ArsMediaApp.AppShell">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <Shell.FlyoutHeader>
+        <Grid BackgroundColor="Gray" HeightRequest="75">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="225" />
+            </Grid.ColumnDefinitions>
+
+            <Label Text="ARS" FontSize="32" TextColor="#fff" Margin="10" />
+
+        </Grid>
+    </Shell.FlyoutHeader>
+
+    <FlyoutItem Title="Videos">
+        <ShellContent ContentTemplate="{DataTemplate local:MainPage}" Route="Home" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Posts">
+        <ShellContent ContentTemplate="{DataTemplate pages:LoginPage}" Route="LoginPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="News">
+        <ShellContent ContentTemplate="{DataTemplate pages:LoginPage}" Route="LoginPage" />
+    </FlyoutItem>
+
+    <Shell.FlyoutFooter>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45" />
+            </Grid.RowDefinitions>
+
+            <Frame CornerRadius="10" Grid.Row="0" Margin="5" BackgroundColor="Purple" Padding="0">
+                <Button Clicked="Logout_Event" Text="Log Out" TextColor="#fff"></Button>
+            </Frame>
+            
+            
+        </Grid>
+    </Shell.FlyoutFooter>
 
 </Shell>

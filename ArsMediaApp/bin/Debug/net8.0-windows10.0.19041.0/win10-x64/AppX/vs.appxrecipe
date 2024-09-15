@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-15T13:59:30.271</Modified>
+      <Modified>2024-09-15T14:12:01.554</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-15T13:36:43.872</Modified>
+      <Modified>2024-09-15T14:12:01.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ArsMediaApp.runtimeconfig.json">
       <PackagePath>ArsMediaApp.runtimeconfig.json</PackagePath>
-      <Modified>2024-09-15T13:36:43.434</Modified>
+      <Modified>2024-09-15T14:12:00.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ArsMediaApp.dll">
       <PackagePath>ArsMediaApp.dll</PackagePath>
-      <Modified>2024-09-15T13:59:28.160</Modified>
+      <Modified>2024-09-15T14:11:58.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ArsMediaApp.exe</PackagePath>
-      <Modified>2024-09-15T13:59:28.250</Modified>
+      <Modified>2024-09-15T14:11:58.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -287,7 +287,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\matej\Source\Repos\ars-media-maui\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ArsMediaApp.deps.json">
       <PackagePath>ArsMediaApp.deps.json</PackagePath>
-      <Modified>2024-09-15T13:36:43.144</Modified>
+      <Modified>2024-09-15T14:12:00.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\matej\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
