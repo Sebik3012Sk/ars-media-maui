@@ -1,4 +1,6 @@
-﻿namespace ArsMediaApp
+﻿//using ArsMediaApp.Models;
+
+namespace ArsMediaApp
 {
     public partial class App : Application
     {

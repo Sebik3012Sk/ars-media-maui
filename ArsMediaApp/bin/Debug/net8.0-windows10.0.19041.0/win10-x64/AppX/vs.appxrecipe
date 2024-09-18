@@ -29,37 +29,25 @@
     <AppXManifest Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-<<<<<<< HEAD
-      <Modified>2024-09-15T14:25:04.561</Modified>
-=======
-      <Modified>2024-09-15T14:17:14.318</Modified>
->>>>>>> d5edd9208b8710497598b71c159d7d8fd2dfd6e9
+      <Modified>2024-09-18T18:54:00.574</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-15T14:17:14.015</Modified>
+      <Modified>2024-09-18T18:16:42.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ArsMediaApp.runtimeconfig.json">
       <PackagePath>ArsMediaApp.runtimeconfig.json</PackagePath>
-      <Modified>2024-09-15T14:13:34.725</Modified>
+      <Modified>2024-09-15T14:32:55.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ArsMediaApp.dll">
       <PackagePath>ArsMediaApp.dll</PackagePath>
-<<<<<<< HEAD
-      <Modified>2024-09-15T14:25:03.749</Modified>
-=======
-      <Modified>2024-09-15T14:17:12.259</Modified>
->>>>>>> d5edd9208b8710497598b71c159d7d8fd2dfd6e9
+      <Modified>2024-09-18T18:53:59.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ArsMediaApp.exe</PackagePath>
-<<<<<<< HEAD
-      <Modified>2024-09-15T14:25:03.766</Modified>
-=======
-      <Modified>2024-09-15T14:17:12.280</Modified>
->>>>>>> d5edd9208b8710497598b71c159d7d8fd2dfd6e9
+      <Modified>2024-09-18T18:53:59.838</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -95,211 +83,215 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-09-15T14:13:20.433</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.416</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.415</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.415</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.414</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.414</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.428</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.427</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.425</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.427</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.426</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.430</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.429</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.428</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.429</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.429</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.433</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.432</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.432</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.432</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.432</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.431</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.431</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.430</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.431</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.430</Modified>
+      <Modified>2024-09-18T14:47:28.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.420</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.420</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.419</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.419</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.418</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.423</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.422</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.422</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.421</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.421</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.425</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.425</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.424</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.424</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.423</Modified>
+      <Modified>2024-09-18T14:47:28.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.418</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.417</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.417</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.417</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.416</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.414</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.413</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.413</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.412</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-09-15T14:13:20.412</Modified>
+      <Modified>2024-09-18T14:47:28.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\google_icon.scale-100.png">
+      <PackagePath>google_icon.scale-100.png</PackagePath>
+      <Modified>2024-09-18T14:47:28.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ArsMediaApp.deps.json">
       <PackagePath>ArsMediaApp.deps.json</PackagePath>
-      <Modified>2024-09-15T14:17:13.680</Modified>
+      <Modified>2024-09-18T18:16:42.296</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

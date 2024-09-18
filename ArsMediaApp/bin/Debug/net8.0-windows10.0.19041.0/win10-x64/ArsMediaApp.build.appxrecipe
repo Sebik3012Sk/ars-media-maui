@@ -214,6 +214,9 @@
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\google_icon.scale-100.png">
+      <PackagePath>google_icon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sebastian Kučera\source\repos\ArsMediaApp\ArsMediaApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ArsMediaApp.deps.json">
       <PackagePath>ArsMediaApp.deps.json</PackagePath>
     </AppxPackagedFile>

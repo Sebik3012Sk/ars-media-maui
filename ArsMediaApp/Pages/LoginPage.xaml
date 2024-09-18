@@ -3,9 +3,31 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ArsMediaApp.Pages.LoginPage"
              Title="LoginPage">
-    <VerticalStackLayout>
-        <Entry x:Name="email_entry" Placeholder="Enter your email" HorizontalOptions="Center" VerticalOptions="Center"/>
-        <Entry x:Name="password_entry" Placeholder="Enter your password" IsPassword="True" HorizontalOptions="Center" VerticalOptions="Center"/>
-        <Button Text="Login" Clicked="loginBtClicked" HorizontalOptions="Center" VerticalOptions="Center"/>
-    </VerticalStackLayout>
+    <StackLayout>
+        <Grid ColumnDefinitions="*" VerticalOptions="FillAndExpand">
+            <Frame Grid.Column="0" Margin="20" CornerRadius="10" BackgroundColor="LightSlateGray">
+                <Grid HorizontalOptions="Center" VerticalOptions="Center">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Row="0" FontSize="27" Margin="10" HorizontalTextAlignment="Center" Text="Log In" />
+                    <Entry Margin="10"  MinimumWidthRequest="350" MinimumHeightRequest="40" Grid.Column="0" HeightRequest="45" BackgroundColor="Black" Grid.Row="1" x:Name="email_entry" Placeholder="example@gmail.com" HorizontalOptions="Center" VerticalOptions="Center"/>
+                    <Entry Margin="10" MinimumWidthRequest="350" MinimumHeightRequest="40" Grid.Column="0" HeightRequest="45" BackgroundColor="Black" Grid.Row="2" x:Name="password_entry" Placeholder="Enter your password" IsPassword="True" HorizontalOptions="Center" VerticalOptions="Center"/>
+                    <Button TextColor="#fff" Grid.Column="0" BackgroundColor="{StaticResource Primary}" HeightRequest="35" Grid.Row="3" Margin="10" Text="Log In" WidthRequest="220" Clicked="loginBtClicked" HorizontalOptions="Center" VerticalOptions="Center"></Button>
+                    <Button Padding="10" MaximumHeightRequest="80" BackgroundColor="LightGray" Text="Sing Up With Google" ImageSource="google_icon.png" Grid.Row="4" Grid.Column="0" MinimumHeightRequest="40" MinimumWidthRequest="250" Margin="10"></Button>
+                </Grid>
+            </Frame>
+        </Grid>
+
+    </StackLayout>
 </ContentPage>

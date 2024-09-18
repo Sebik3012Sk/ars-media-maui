@@ -13,6 +13,7 @@
             </Grid.ColumnDefinitions>
 
             <Label Text="ARS" FontSize="32" TextColor="#fff" Margin="10" />
+            <!--<Label Grid.Row="1" Text="{Binding Username}" FontSize="18" TextColor="#fff" Margin="10" />-->
 
         </Grid>
     </Shell.FlyoutHeader>
@@ -35,10 +36,7 @@
                 <RowDefinition Height="45" />
             </Grid.RowDefinitions>
 
-            <Frame CornerRadius="10" Grid.Row="0" Margin="5" BackgroundColor="Purple" Padding="0">
-                <Button Clicked="Logout_Event" Text="Log Out" TextColor="#fff"></Button>
-            </Frame>
-            
+            <Button Clicked="Logout_Event" Grid.Row="0" Text="Log Out" TextColor="#fff" BackgroundColor="{StaticResource Primary}" CornerRadius="10" Margin="5"></Button>
             
         </Grid>
     </Shell.FlyoutFooter>

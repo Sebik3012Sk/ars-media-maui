@@ -3,17 +3,21 @@ using ArsMediaApp.Database;
 using ArsMediaApp.Models;
 using System.Collections.ObjectModel;
 using ArsMediaApp.Pages;
+using ArsMediaApp.Database.GET;
 
 public partial class LIstPost : ContentView
 {
-    ObservableCollection<Post> posts;
-    Connection connection;
+    private ObservableCollection<Post> posts;
+    private Connection connection;
+    private Posts postsObj;
+
 
     public LIstPost()
 	{
 		InitializeComponent();
         posts = new ObservableCollection<Post>();
         connection = new Connection();
+        postsObj = new Posts();
         listView_posts.ItemsSource = posts;
     }
 
@@ -21,11 +25,7 @@ public partial class LIstPost : ContentView
     private void LoadContent_Event(object sender, EventArgs e)
     {
         posts.Clear();
-<<<<<<< HEAD
-        var data_posts = connection.connectDb("http://localhost:57257/get-post");
-=======
-        var data_posts = connection.connectDb("http://localhost:7131/get-post");
->>>>>>> d5edd9208b8710497598b71c159d7d8fd2dfd6e9
+        var data_posts = postsObj.GetPosts();
         foreach (var post in data_posts)
         {
             posts.Add(new Post
